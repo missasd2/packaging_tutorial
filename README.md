@@ -1,6 +1,6 @@
 
-# 0 说明
-本仓库为测试打包分发 python项目只用
+# 说明
+本仓库为测试打包分发 python项目之用 </br>
 参考文档为：https://docs.python.org/3/tutorial/modules.html#packages
 
 
