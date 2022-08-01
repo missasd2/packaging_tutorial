@@ -17,6 +17,8 @@ py -m pip install --upgrade pip
 ```
 
 # 1 创建目录及文件
+
+```
 packaging_tutorial/
 ├── LICENSE
 ├── pyproject.toml
@@ -26,6 +28,7 @@ packaging_tutorial/
 │       ├── __init__.py
 │       └── example.py
 └── tests/
+```
 
 文件说明：
 - LICENSE: 许可文件
